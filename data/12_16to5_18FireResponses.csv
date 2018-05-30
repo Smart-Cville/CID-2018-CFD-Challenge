@@ -1,0 +1,332 @@
+Basic Incident Number (FD1),Basic Incident Date Original (FD1.3),Basic Incident Latitude (FD1.69),Basic Incident Longitude (FD1.69),Basic Incident Type (FD1.21),Basic Incident Type Code And Description (FD1.21),Basic Incident Type Subcategory (FD1.21),Basic Incident Type Category (FD1.21),Apparatus Resource Dispatch Date Time (FD18.3),Basic Incident PSAP To Alarm In Minutes,Apparatus Resource Dispatch To En Route In Minutes,Apparatus Resource En Route To Arrived In Minutes,Apparatus Resource Vehicle Call Sign List,Apparatus Resource Arrival Date Time (FD18.4)
+2016-00006495,12/20/2016,38.042275,-78.500969,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,12/20/2016 3:43,2.5,,,",,,,,",
+2016-00006520,12/20/2016,38.009043,-78.50633,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,12/20/2016 18:08,2.62,,,,12/20/2016 18:13
+2016-00006545,12/21/2016,38.02089,-78.486643,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,12/21/2016 16:25,1.03,0.05,2.55,",",12/21/2016 16:28
+2016-00006672,12/26/2016,38.023539,-78.487012,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,12/26/2016 0:06,0.5,,,",,,,,,,,,,,,",
+2017-00000106,1/4/2017,38.03955,-78.470475,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/4/2017 23:10,1.08,0.58,,",,FM3,,,,,,,,,,,,FM4,",
+2017-00000189,1/7/2017,38.043244,-78.517575,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/7/2017 15:06,0.73,0.03,,",",
+2017-00000245,1/9/2017,38.061426,-78.485375,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/9/2017 3:38,1.5,1.83,4.87,",,,",1/9/2017 3:45
+2017-00000367,1/13/2017,38.030561,-78.485999,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/13/2017 10:19,3.22,0.52,1.18,",FM2,FM4,,,",1/13/2017 10:21
+2017-00000459,1/15/2017,38.026901,-78.462024,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,1/15/2017 19:14,1.2,1.53,,",,,,,,,,",
+2017-00000460,1/15/2017,38.02626,-78.522415,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/15/2017 19:27,1.57,0.9,,",,,",
+2017-00000478,1/16/2017,38.032335,-78.493996,"Mobile property (vehicle) fire, other","130 - Mobile property (vehicle) fire, other",13 - Mobile property (vehicle) fire,1 - Fire,1/16/2017 9:19,0.67,1.8,1.98,,1/16/2017 9:23
+2017-00000492,1/16/2017,38.042526,-78.503318,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,1/16/2017 16:02,0.85,0.87,4.93,,1/16/2017 16:08
+2017-00000539,1/17/2017,38.04038,-78.499922,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,1/17/2017 19:13,2.03,1,4.28,",",1/17/2017 19:19
+2017-00000545,1/17/2017,38.0298,-78.504524,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/17/2017 20:43,0.65,0.82,4.53,",",1/17/2017 20:48
+2017-00000613,1/19/2017,38.042609,-78.504558,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/19/2017 17:47,0.43,1.87,5.58,",",1/19/2017 17:54
+2017-00000647,1/20/2017,38.022427,-78.520697,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,1/20/2017 17:13,1.43,1.68,,",,,",
+2017-00000696,1/21/2017,38.029724,-78.482958,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/21/2017 22:48,1.5,1.68,,",,,",
+2017-00000756,1/23/2017,38.029398,-78.482465,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/23/2017 13:02,3.22,1.83,1.72,",,,,,,,FM4,",1/23/2017 13:06
+2017-00000773,1/24/2017,38.02201,-78.55901,Road freight or transport vehicle fire,132 - Road freight or transport vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,1/24/2017 0:35,2.33,2.1,4.53,,1/24/2017 0:42
+2017-00000896,1/27/2017,38.039159,-78.467042,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,1/27/2017 20:31,0.43,0.98,5.83,",,,",1/27/2017 20:38
+2017-00000921,1/28/2017,38.047153,-78.515975,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/28/2017 11:43,0.8,1.5,5.52,,1/28/2017 11:50
+2017-00000984,1/30/2017,38.08114,-78.4752,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,,2.8,,,E2,
+2017-00001006,1/30/2017,38.022615,-78.485878,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,1/30/2017 23:50,1.98,2.23,2.18,,1/30/2017 23:54
+2017-00001140,2/4/2017,38.022727,-78.577035,Road freight or transport vehicle fire,132 - Road freight or transport vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,2/4/2017 0:57,1.55,1.63,5.43,,2/4/2017 1:04
+2017-00001336,2/9/2017,38.036445,-78.488536,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,2/9/2017 15:15,1.22,1.05,3.37,,2/9/2017 15:19
+2017-00001409,2/11/2017,38.022747,-78.516936,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,2/11/2017 16:13,1.3,1.48,,",,,,,,,,,",
+2017-00001415,2/11/2017,38.034956,-78.4373,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,2/11/2017 18:35,0.78,1.17,5.65,",,,,",2/11/2017 18:42
+2017-00001470,2/12/2017,38.023917,-78.494672,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,2/12/2017 19:43,0.87,0.85,3.35,",,,",2/12/2017 19:48
+2017-00001484,2/13/2017,38.028093,-78.486321,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,,,,,",,,,,,",2/13/2017 11:41
+2017-00001485,2/13/2017,38.059858,-78.489975,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,2/13/2017 13:36,1.77,0.75,,",,,,",
+2017-00001494,2/13/2017,38.029649,-78.519891,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,2/13/2017 16:38,2.67,0.35,12.82,",",2/13/2017 16:51
+2017-00001586,2/16/2017,38.03516,-78.506336,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,2/16/2017 20:45,4.1,1.65,3.88,E10,2/16/2017 20:50
+2017-00001603,2/17/2017,38.029216,-78.482036,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,2/17/2017 5:20,2.5,,,"FM1,E7",
+2017-00001651,2/18/2017,38.028129,-78.501796,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,2/18/2017 16:09,0.85,1.18,3.33,E5,2/18/2017 16:14
+2017-00001672,2/19/2017,38.04267,-78.50002,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,2/19/2017 11:30,1.12,0.92,4.65,"E5,BC2,E7,TRK8",2/19/2017 11:36
+2017-00001688,2/19/2017,38.0332,-78.491138,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,2/19/2017 19:55,0.67,0.8,3.43,E7,2/19/2017 19:59
+2017-00001709,2/20/2017,38.059208,-78.494396,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,2/20/2017 13:18,0.8,0.83,2.63,E1,2/20/2017 13:21
+2017-00001764,2/22/2017,38.033147,-78.48591,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,2/22/2017 11:23,1.45,0.65,2.25,E7,2/22/2017 11:26
+2017-00001802,2/23/2017,38.042514,-78.511561,Road freight or transport vehicle fire,132 - Road freight or transport vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,2/23/2017 13:23,1.45,1.68,5.55,TO10,2/23/2017 13:30
+2017-00001826,2/24/2017,38.019271,-78.465707,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,2/24/2017 3:37,1.77,1.9,5.77,"E7,BC1,E5,TRK8,RS142,E1,E10,TO10,FM3",2/24/2017 3:45
+2017-00001827,2/24/2017,38.082,-78.483725,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,2/24/2017 4:53,0.9,1.5,6.65,E1,2/24/2017 5:02
+2017-00001833,2/24/2017,38.017078,-78.481587,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,2/24/2017 15:32,0.4,0.57,3.93,E5,2/24/2017 15:37
+2017-00001917,2/26/2017,38.021787,-78.540667,"Mobile property (vehicle) fire, other","130 - Mobile property (vehicle) fire, other",13 - Mobile property (vehicle) fire,1 - Fire,2/26/2017 11:22,2.1,0.73,5.52,E10,2/26/2017 11:28
+2017-00001953,2/27/2017,38.029744,-78.491171,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,2/27/2017 8:29,1.38,0.03,3.02,E5,2/27/2017 8:32
+2017-00001974,2/27/2017,38.014004,-78.533904,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,2/27/2017 18:23,0.82,0.03,9.43,E4,2/27/2017 18:33
+2017-00001982,2/27/2017,38.025933,-78.455695,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,2/27/2017 20:38,3.02,1.82,6.55,E5,2/27/2017 20:47
+2017-00001983,2/27/2017,38.048676,-78.486379,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,2/27/2017 20:50,1.5,1.87,3.42,"E1,E7,BC1,E10,TRK8",2/27/2017 20:55
+2017-00002092,3/3/2017,38.030505,-78.487259,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,3/3/2017 13:18,1.02,0.83,1.68,E7,3/3/2017 13:21
+2017-00002098,3/3/2017,38.018827,-78.486264,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,3/3/2017 17:25,1.3,1.43,3.27,E5,3/3/2017 17:30
+2017-00002193,3/6/2017,38.031454,-78.486223,"Mobile property (vehicle) fire, other","130 - Mobile property (vehicle) fire, other",13 - Mobile property (vehicle) fire,1 - Fire,3/6/2017 10:31,0.62,,,"FM4,E7",3/6/2017 10:31
+2017-00002197,3/6/2017,38.080806,-78.46794,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,3/6/2017 14:08,1.47,0.97,7.08,E1,3/6/2017 14:16
+2017-00002249,3/8/2017,38.023156,-78.494193,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,3/8/2017 0:41,0.98,1.2,3.98,E5,3/8/2017 0:46
+2017-00002343,3/10/2017,38.057879,-78.486887,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,3/10/2017 22:36,1.47,2.05,2.95,"E1,E5,E7,BC6,TRK8,E4,RS145",3/10/2017 22:41
+2017-00002358,3/11/2017,38.053874,-78.504789,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,3/11/2017 11:40,3.07,1.72,5.68,E1,3/11/2017 11:47
+2017-00002380,3/11/2017,38.013164,-78.50256,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,3/11/2017 20:41,2.85,0.15,0.93,E7,3/11/2017 20:42
+2017-00002505,3/15/2017,38.030661,-78.491003,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,3/15/2017 0:34,1.02,1.73,3.55,"E5,E7,TRK8,DUTY1,E10,BC6,E1,E4,RS140,FM3",3/15/2017 0:39
+2017-00002514,3/15/2017,38.032866,-78.515544,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/15/2017 10:29,1.18,,,"UVA2,E4,TRK8",
+2017-00002524,3/15/2017,38.023388,-78.474417,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/15/2017 18:50,1.08,1.62,2.87,"E5,TRK8,E7,BC1",3/15/2017 18:55
+2017-00002592,3/17/2017,37.994917,-78.487954,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/17/2017 18:21,1.7,1.28,5.73,E5,3/17/2017 18:28
+2017-00002597,3/17/2017,38.016782,-78.486824,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,3/17/2017 19:57,2.03,1.28,3.32,E5,3/17/2017 20:02
+2017-00002707,3/20/2017,38.075149,-78.472169,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/20/2017 21:17,2.12,1.47,5.25,E1,3/20/2017 21:24
+2017-00002754,3/22/2017,38.063186,-78.513289,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,3/22/2017 14:12,1.72,1.47,5.58,E10,3/22/2017 14:19
+2017-00002770,3/22/2017,38.02201,-78.55901,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,3/22/2017 21:11,0.65,5.17,0.03,E4,3/22/2017 21:16
+2017-00002785,3/23/2017,38.068387,-78.499923,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/23/2017 19:07,2.52,0.73,4.73,E1,3/23/2017 19:13
+2017-00002816,3/24/2017,38.021179,-78.484471,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,3/24/2017 18:11,0.75,1.42,3.48,E5,3/24/2017 18:16
+2017-00002818,3/24/2017,38.027446,-78.448485,Fires in structure other than in a building,112 - Fires in structure other than in a building,11 - Structure Fire,1 - Fire,3/24/2017 18:43,1.57,0.03,6.42,"RS141,E5",3/24/2017 18:49
+2017-00002894,3/26/2017,38.058751,-78.488837,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,3/26/2017 8:43,0.77,1.45,2.43,E1,3/26/2017 8:47
+2017-00002988,3/29/2017,38.060053,-78.487208,Grass fire,143 - Grass fire,14 - Natural vegetation fire,1 - Fire,3/29/2017 15:18,2.65,0.4,4.55,E1,3/29/2017 15:22
+2017-00003016,3/30/2017,38.022546,-78.47604,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,3/30/2017 14:21,2.5,0.03,,"E4,E5,TRK8,BC6,E7,E1,RS142,FM2,FM3",
+2017-00003171,4/3/2017,38.049929,-78.495278,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,4/3/2017 17:40,1.22,0.97,5.78,E1,4/3/2017 17:47
+2017-00003254,4/5/2017,38.027076,-78.465398,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/5/2017 18:32,1.52,1.95,3.5,E5,4/5/2017 18:37
+2017-00003339,4/8/2017,38.040949,-78.501166,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/8/2017 6:13,0.95,2.35,3.58,"E7,E5,E1,TRK8,BC2,E4,TO10,RS144,FM3,FM4",4/8/2017 6:19
+2017-00003411,4/9/2017,38.026877,-78.487724,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/9/2017 22:34,2.3,1.55,,"BC6,TRK8,E5,E3,RS147",
+2017-00003421,4/10/2017,38.031283,-78.482792,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/10/2017 10:19,1.42,1.35,,"E1,FM1,TO10,TRK8,BC3,FM2,FM4,E3,RS147,E5,E4",
+2017-00003424,4/10/2017,38.034682,-78.505643,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,4/10/2017 12:44,2.17,,,"BC6,UVA2,VOL,E5,E3,E4,TRK8,TO10,E1,BC3,RS144,FM2,FM4,CHF1",
+2017-00003448,4/11/2017,38.016868,-78.521679,Fires in structure other than in a building,112 - Fires in structure other than in a building,11 - Structure Fire,1 - Fire,4/11/2017 4:13,1.42,2.22,7.37,E4,4/11/2017 4:23
+2017-00003470,4/11/2017,38.030943,-78.503425,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,4/11/2017 19:29,1.62,0.73,4.12,E4,4/11/2017 19:33
+2017-00003520,4/13/2017,38.051428,-78.480314,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/13/2017 15:46,0.83,0.5,3.65,"E1,FM2",4/13/2017 15:50
+2017-00003616,4/16/2017,38.049573,-78.507007,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/16/2017 9:25,1,1.47,4,"E1,E4,BC6,TO10",4/16/2017 9:31
+2017-00003627,4/16/2017,38.015477,-78.470943,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/16/2017 13:35,1.48,1.52,4.07,"TRK8,E7,DUTY1,E4,TO10,BC6,E5,E1,FM2,RS147",4/16/2017 13:41
+2017-00003632,4/16/2017,38.015171,-78.532559,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/16/2017 18:09,2.83,1.58,7.3,E4,4/16/2017 18:18
+2017-00003687,4/18/2017,38.003418,-78.493239,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/18/2017 22:06,2.82,1.67,9.17,E3,4/18/2017 22:17
+2017-00003688,4/18/2017,38.05342,-78.472908,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/18/2017 22:17,2.4,1.23,4.8,E1,4/18/2017 22:23
+2017-00003696,4/19/2017,38.040317,-78.506698,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/19/2017 8:10,2,0.02,5.68,E4,4/19/2017 8:16
+2017-00003711,4/19/2017,38.02997,-78.484916,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,4/19/2017 17:19,1.13,,,E3,4/19/2017 17:19
+2017-00003757,4/20/2017,38.02662,-78.467659,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,4/20/2017 20:24,0.58,1.08,3.88,E3,4/20/2017 20:29
+2017-00003946,4/25/2017,37.997681,-78.50827,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/25/2017 17:16,2,1.57,7.83,E7,4/25/2017 17:26
+2017-00004056,4/29/2017,38.03557,-78.498555,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/29/2017 7:29,0.85,2.33,2.6,"TRK8,E5,BC1",4/29/2017 7:34
+2017-00004095,4/29/2017,38.023004,-78.485671,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,4/29/2017 23:33,1.7,1.2,7.22,E5,4/29/2017 23:41
+2017-00004143,5/1/2017,38.036519,-78.484285,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/1/2017 16:34,0.88,0.08,0.37,"DUTY1,E7,TRK8,BC1,E5,E1,RS145,E10,TO10",5/1/2017 16:34
+2017-00004165,5/2/2017,37.998649,-78.523004,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/2/2017 13:48,1.93,1.5,5.3,E10,5/2/2017 13:55
+2017-00004179,5/2/2017,38.030534,-78.499537,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,5/2/2017 20:11,0.98,0.5,2.82,E5,5/2/2017 20:14
+2017-00004236,5/4/2017,38.025771,-78.519558,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,5/4/2017 11:11,0.87,1.18,0.73,E10,5/4/2017 11:13
+2017-00004244,5/4/2017,38.041473,-78.505885,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/4/2017 16:31,0.95,0.08,,"CHF1,E7,TO10,E10,BC2,TRK8,RS146,E1,E5,FM1,SQ133,FM4,RS142,FM3,E4",
+2017-00004246,5/4/2017,38.025682,-78.518421,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/4/2017 16:47,1,0.1,,"CHF3,E4,RS145,FM3",
+2017-00004269,5/5/2017,38.041473,-78.505885,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/5/2017 8:03,0.87,0.07,3.27,"FM3,BC3,E10,TO10,E7,FM2",5/5/2017 8:07
+2017-00004397,5/8/2017,38.026584,-78.48793,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,5/8/2017 10:45,1.47,,,"BC6,E5,TRK8,E7",
+2017-00004411,5/8/2017,38.03485,-78.50931,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,5/8/2017 17:26,0.33,,,"UVA2,FM2,E10",
+2017-00004463,5/10/2017,38.099762,-78.462068,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/10/2017 1:22,0.83,1.82,6.6,E1,5/10/2017 1:30
+2017-00004467,5/10/2017,38.039077,-78.495985,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/10/2017 4:08,0.77,2.98,3.27,"E7,BC2,E5,TRK8",5/10/2017 4:14
+2017-00004497,5/11/2017,38.027416,-78.480696,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,5/11/2017 6:58,0.9,1.65,2.03,E7,5/11/2017 7:02
+2017-00004502,5/11/2017,38.030284,-78.4765,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,5/11/2017 10:07,1.5,0.65,2.93,"E7,TRK8,E5,BC2",5/11/2017 10:11
+2017-00004678,5/16/2017,38.018082,-78.499992,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,5/16/2017 18:26,1.97,0.03,,"BC3,E10,E4,RS141,TO10,E7,TRK8,E5,DUTY1",
+2017-00004689,5/17/2017,38.021047,-78.500315,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/17/2017 9:07,1.75,1.27,5.53,"TRK8,FM4",5/17/2017 9:13
+2017-00004691,5/17/2017,38.048488,-78.513205,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/17/2017 9:54,0.87,,,"UVA2,E10,RS142,E4",
+2017-00004738,5/18/2017,38.019827,-78.478614,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/18/2017 23:07,30.7,0.1,,"CHF1,FM4,TRK8,E5,BC2,RS142,E4,E7,DUTY1,TO10",
+2017-00004754,5/19/2017,38.022665,-78.494572,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/19/2017 10:08,1.4,3.65,,"E4,E5,FM1,FM2,TO10,RS146,TRK8,E7,BC1,E10",
+2017-00004764,5/19/2017,38.038468,-78.485115,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/19/2017 15:08,2.43,1.32,,"E10,E4,TO10,RS142,TRK8,E7,BC1,E5,FM4",
+2017-00004766,5/19/2017,38.033086,-78.496763,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,5/19/2017 15:35,1.98,0.17,1.4,E5,5/19/2017 15:37
+2017-00004789,5/19/2017,,,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,5/19/2017 23:39,1.2,,,"UVA2,E10",
+2017-00004806,5/20/2017,38.033752,-78.457294,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,5/20/2017 10:35,1.25,0.03,1.58,"E2,E5,RS142",5/20/2017 10:37
+2017-00004878,5/22/2017,38.07814,-78.490943,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/22/2017 18:31,0.9,1.28,5.1,E1,5/22/2017 18:37
+2017-00004902,5/23/2017,38.024641,-78.49447,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,5/23/2017 13:59,0.62,0.07,3.47,"BC6,E4",5/23/2017 14:02
+2017-00004946,5/24/2017,38.018494,-78.498304,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/24/2017 19:32,2.85,1.73,3.78,"E7,TRK8,BC1,E5,TO10,E10,FM1",5/24/2017 19:37
+2017-00004996,5/26/2017,38.021447,-78.486562,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,5/26/2017 5:47,1.55,0.05,0.38,"E5,BC6,TRK8,E7,RS142",5/26/2017 5:47
+2017-00005008,5/26/2017,38.033752,-78.457294,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,5/26/2017 13:31,0.83,2.77,3.5,E5,5/26/2017 13:38
+2017-00005042,5/27/2017,38.036382,-78.461962,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,5/27/2017 10:50,1.52,1.42,3.7,"E7,E5,FM2",5/27/2017 10:55
+2017-00005096,5/28/2017,38.022866,-78.485878,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,5/28/2017 20:53,1.27,1.4,2.5,"E5,TRK8,E7,BC6",5/28/2017 20:57
+2017-00005126,5/29/2017,38.032246,-78.480868,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,5/29/2017 23:18,2.05,0.08,,"DUTY1,E10,E3,E7,RS142,TO10,TRK8,BC6,E5",
+2017-00005137,5/30/2017,38.088678,-78.466359,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,5/30/2017 7:29,1.32,1.87,5.4,E3,5/30/2017 7:36
+2017-00005160,5/30/2017,38.031577,-78.481096,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,5/30/2017 19:50,2.73,0.87,2.08,E5,5/30/2017 19:53
+2017-00005167,5/30/2017,38.033794,-78.477129,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/30/2017 23:22,1.97,2.28,,"TRK8,E5,BC3,FM2",
+2017-00005249,6/2/2017,38.035036,-78.45943,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,6/2/2017 16:08,2.13,0.63,4.08,E3,6/2/2017 16:13
+2017-00005286,6/3/2017,38.024382,-78.475144,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,6/3/2017 18:51,2.02,0.52,2.6,"TRK8,E3",6/3/2017 18:54
+2017-00005410,6/7/2017,38.039282,-78.496802,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,6/7/2017 13:41,0.68,1.4,3.48,"E3,E7,E10,BC2,DUTY1,E5,TO10,TRK8,FM4,RS142",6/7/2017 13:45
+2017-00005451,6/9/2017,38.08234,-78.483986,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,6/9/2017 7:33,0.75,1.33,,E1,
+2017-00005484,6/10/2017,38.028058,-78.480386,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,6/10/2017 12:58,0.82,1.02,1.78,E7,6/10/2017 13:01
+2017-00005485,6/10/2017,38.04448,-78.467599,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,6/10/2017 14:12,1.87,0.73,3.28,E1,6/10/2017 14:16
+2017-00005494,6/10/2017,38.06319,-78.488524,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,6/10/2017 18:19,1,0.75,3.65,E1,6/10/2017 18:23
+2017-00005535,6/11/2017,38.07228,-78.492127,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,6/11/2017 23:59,1.42,1.22,5.47,E1,6/12/2017 0:06
+2017-00005550,6/12/2017,38.028806,-78.465822,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,6/12/2017 14:00,1.67,1.75,,"TO10,E7,E5,TRK8,RS145,RS146,BC6,E1,E10,FM2",
+2017-00005608,6/13/2017,38.04589,-78.488195,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,6/13/2017 20:08,0.92,0.75,4.07,"E1,TRK8",6/13/2017 20:13
+2017-00005673,6/15/2017,38.021871,-78.441997,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,6/15/2017 16:58,0.88,1.15,6.77,E1,6/15/2017 17:06
+2017-00005696,6/16/2017,38.03294,-78.513458,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,6/16/2017 11:57,0.52,1.5,2.85,E10,6/16/2017 12:01
+2017-00005778,6/18/2017,38.003751,-78.493919,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,6/18/2017 14:41,1.6,1.22,3.92,E7,6/18/2017 14:46
+2017-00005817,6/19/2017,38.033945,-78.503833,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,6/19/2017 19:33,1.73,,,"UVA2,TRK8,BC3,E5,E7",
+2017-00005834,6/20/2017,38.033312,-78.502501,Road freight or transport vehicle fire,132 - Road freight or transport vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,6/20/2017 12:55,0.97,,,"UVA2,E7",
+2017-00005842,6/20/2017,38.028063,-78.480398,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,6/20/2017 17:02,1.15,1.37,2.32,"E5,E7,TRK8,BC6",6/20/2017 17:05
+2017-00005850,6/20/2017,38.040211,-78.497034,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,6/20/2017 21:43,0.75,1.23,3.43,E7,6/20/2017 21:48
+2017-00005890,6/22/2017,38.031333,-78.507717,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,6/22/2017 14:46,0.9,1.48,2.08,"E10,TO10,E7,BC6,FM4",6/22/2017 14:49
+2017-00005990,6/25/2017,38.03485,-78.50931,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,6/25/2017 20:01,4.1,1.48,3.9,E10,6/25/2017 20:07
+2017-00006002,6/26/2017,38.042534,-78.511478,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,6/26/2017 12:57,1.12,0.97,3.85,E10,6/26/2017 13:02
+2017-00006057,6/28/2017,38.043784,-78.49943,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,6/28/2017 6:51,1.98,,,"FM1,VOL,E2,BC6,BC3,E7,TO10,E5,E10,TRK8",
+2017-00006077,6/28/2017,38.030711,-78.482263,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,6/28/2017 18:16,1.03,1.07,1.18,"E5,BC3,E10,FM3",6/28/2017 18:18
+2017-00006086,6/29/2017,38.056804,-78.499922,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,6/29/2017 6:50,0.7,1.83,2.98,"E1,TO10,E10,BC6,FM2",6/29/2017 6:54
+2017-00006114,6/30/2017,38.051882,-78.500519,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,6/30/2017 3:15,0.88,2.43,3.38,E1,6/30/2017 3:21
+2017-00006213,7/3/2017,38.075229,-78.495868,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,7/3/2017 9:20,1.25,1.98,4.8,E1,7/3/2017 9:27
+2017-00006229,7/3/2017,38.033885,-78.485495,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,7/3/2017 22:45,1.28,1.85,1.88,"E7,TRK8,E5,BC1",7/3/2017 22:49
+2017-00006268,7/4/2017,38.057912,-78.494794,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,7/4/2017 22:57,0.97,2.43,2.32,"E1,BC6,FM2",7/4/2017 23:02
+2017-00006348,7/7/2017,38.018379,-78.481716,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,7/7/2017 18:04,1.62,1.38,3.35,E5,7/7/2017 18:09
+2017-00006412,7/8/2017,38.025204,-78.513202,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,7/8/2017 22:33,3.95,1.42,4.25,E10,7/8/2017 22:39
+2017-00006534,7/13/2017,38.014795,-78.470151,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,7/13/2017 2:41,0.77,,,"VOL,RS141,E5,TRK8,E7,BC1,E1,RS145,TO10,E10,FM2,SQ135,DUTY1,FM4",
+2017-00006647,7/16/2017,38.025721,-78.470015,"Commercial Compactor fire, confined to rubbish","117 - Commercial Compactor fire, confined to rubbish",11 - Structure Fire,1 - Fire,7/16/2017 16:51,1.98,0.07,2.38,"E1,E5,TRK8,E7,BC6,TO10,FM2",7/16/2017 16:53
+2017-00006651,7/16/2017,38.020112,-78.504033,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,7/16/2017 18:34,0.85,1.77,4.68,E10,7/16/2017 18:40
+2017-00006671,7/17/2017,38.059267,-78.488124,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,7/17/2017 11:57,0.62,1.33,2.83,"E1,E5,E7,BC1,TRK8,RS145,TO10",7/17/2017 12:01
+2017-00006727,7/19/2017,38.016067,-78.474912,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,7/19/2017 14:33,2.22,1.43,3.23,E7,7/19/2017 14:38
+2017-00006743,7/20/2017,,,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,7/20/2017 9:42,,,,E10,7/20/2017 9:51
+2017-00006781,7/21/2017,38.030106,-78.478756,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,7/21/2017 10:29,0.5,1.4,2.17,"E7,BC1,E5,RS145,TRK8,FM3,E10",7/21/2017 10:33
+2017-00006789,7/21/2017,38.02518,-78.487971,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,7/21/2017 15:56,0.72,1.17,1.58,E7,7/21/2017 15:59
+2017-00006829,7/22/2017,38.031573,-78.481473,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,7/22/2017 17:05,1.15,0.05,,"DUTY1,RS146,BC6,E7,TRK8,E1,RS144,SQ133,TO10,CHF1,FM1,E10",
+2017-00006872,7/23/2017,38.021664,-78.474555,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,7/23/2017 19:58,1.03,0.42,,"E1,RS146,TO10,E5,E7,TRK8,BC6",
+2017-00006997,7/28/2017,38.023955,-78.494643,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,7/28/2017 12:08,0.95,1.72,,"E10,E7,RS145,TRK8,E5,BC1",
+2017-00007102,7/31/2017,38.025827,-78.467008,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,7/31/2017 17:32,0.95,1.53,,"DUTY1,E10,E2,TO10,FM1,E7,E5,BC6,TRK8,RS141,FM4",
+2017-00007176,8/3/2017,38.054301,-78.500519,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,8/3/2017 17:21,0.53,1.42,3.37,E2,8/3/2017 17:26
+2017-00007194,8/4/2017,38.051597,-78.484084,"Fire in portable building, fixed location","123 - Fire in portable building, fixed location",12 - Fire in mobile property used as a fixed structure,1 - Fire,8/4/2017 12:54,1.18,1.35,4.63,"E5,E7,E2,BC6,RS145,TRK8,E10,TO10,FM1",8/4/2017 13:00
+2017-00007240,8/5/2017,38.023679,-78.490487,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,8/5/2017 18:08,0.83,0.93,,"BC6,E7,TRK8,E5",
+2017-00007262,8/6/2017,38.046987,-78.462996,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,8/6/2017 18:00,0.82,8.75,,"FM1,E2,E7,TRK8,BC1,TO10,E10,E5,CHF1,FM4,RS142",
+2017-00007362,8/10/2017,38.020638,-78.495526,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,8/10/2017 0:41,0.92,2.2,2.58,E7,8/10/2017 0:46
+2017-00007418,8/12/2017,38.021622,-78.485908,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,8/12/2017 3:23,1.62,2.73,2.23,"E5,BC2",8/12/2017 3:28
+2017-00007529,8/16/2017,38.01939,-78.488304,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,8/16/2017 13:28,0.65,0.97,3.73,"BC2,E10,E5,RS142,E2,TO10,E7,FM2,TRK8,FM1",8/16/2017 13:32
+2017-00007595,8/18/2017,38.02825,-78.474226,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,8/18/2017 17:23,1.43,1.37,2.8,E5,8/18/2017 17:28
+2017-00007730,8/22/2017,38.03516,-78.506336,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,8/22/2017 23:34,1.5,1.88,,"E10,BC1,TO10,E7",
+2017-00007783,8/25/2017,38.082632,-78.48699,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,8/25/2017 6:37,1.02,1.07,,E1,
+2017-00007912,8/29/2017,38.054751,-78.489716,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,8/29/2017 17:24,0.63,0.03,,"CHF1,FM4,E2,E5,E7,TO10,RS142,E10,BC2,TRK8,FM3",
+2017-00007914,8/29/2017,38.046647,-78.486043,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,8/29/2017 19:00,1.5,1.6,3.73,"TRK8,BC2,E7,E10,RS146,FM4,FM3",8/29/2017 19:06
+2017-00007954,8/31/2017,38.034829,-78.496196,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,8/31/2017 17:21,0.68,,,"E2,RS142,VOL,E7,E5,TRK8,TO10,BC1,RS146,E10",
+2017-00008141,9/6/2017,38.023652,-78.475394,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,9/6/2017 5:42,1.47,1.43,2.87,E5,9/6/2017 5:46
+2017-00008146,9/6/2017,38.086651,-78.459408,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,9/6/2017 10:30,0.78,1.3,8.28,E2,9/6/2017 10:40
+2017-00008270,9/9/2017,38.019602,-78.473653,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,9/9/2017 21:32,1.47,1.63,3.48,E5,9/9/2017 21:37
+2017-00008293,9/10/2017,38.020556,-78.477739,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,9/10/2017 15:14,1.32,0.73,3.55,E5,9/10/2017 15:18
+2017-00008342,9/12/2017,38.05342,-78.472908,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,9/12/2017 14:09,1.2,1.13,4.45,E7,9/12/2017 14:14
+2017-00008380,9/13/2017,38.012862,-78.482766,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,9/13/2017 22:52,0.45,2.28,2.73,"E7,BC1,E5,TRK8,E2,TO10,RS145",9/13/2017 22:57
+2017-00008412,9/15/2017,38.05035,-78.458182,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,9/15/2017 14:33,1.25,1.78,5.8,E2,9/15/2017 14:41
+2017-00008607,9/20/2017,38.030534,-78.499537,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,9/20/2017 17:16,2.4,1.15,3.37,E7,9/20/2017 17:21
+2017-00008781,9/26/2017,38.056955,-78.488816,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,9/25/2017 13:39,6.23,1.63,,"E7,E2",
+2017-00008845,9/27/2017,38.038525,-78.507127,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,9/27/2017 14:18,1.38,,,"UVA2,E10",
+2017-00008887,9/28/2017,38.008944,-78.525261,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,9/28/2017 15:16,1.07,1.68,,E10,
+2017-00008996,10/1/2017,38.014577,-78.469962,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,10/1/2017 19:30,1.43,0.85,4.28,"TRK8,BC1,E5,E7,RS142,E1",10/1/2017 19:35
+2017-00009275,10/9/2017,38.020999,-78.478113,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,10/9/2017 2:08,0.73,2.95,4.62,E5,10/9/2017 2:15
+2017-00009357,10/11/2017,38.072021,-78.490241,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,10/11/2017 16:39,1.22,0.93,4.43,E1,10/11/2017 16:44
+2017-00009375,10/12/2017,38.026921,-78.487855,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,10/12/2017 6:50,1.52,1.48,1.6,"E7,E5,BC6,TRK8,RS140",10/12/2017 6:53
+2017-00009479,10/14/2017,38.029549,-78.504968,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,10/14/2017 18:10,1.07,,,"E4,E10,TRK8",
+2017-00009747,10/22/2017,38.035282,-78.503091,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,10/22/2017 0:48,1.93,,,"UVA2,E7,TRK8",
+2017-00009797,10/23/2017,38.023933,-78.490468,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,10/23/2017 12:26,1.1,0.05,,"RS147,E3,E2,TRK8,BC6",
+2017-00009802,10/23/2017,38.033063,-78.50411,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,10/23/2017 16:29,2.72,1.47,3.55,E10,10/23/2017 16:34
+2017-00009835,10/24/2017,38.066284,-78.497775,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,10/24/2017 12:54,1.32,0.63,4.22,E1,10/24/2017 12:59
+2017-00009977,10/28/2017,38.034875,-78.499237,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,10/28/2017 18:30,1.62,1.35,2.68,E3,10/28/2017 18:34
+2017-00009997,10/29/2017,38.030755,-78.485653,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,10/29/2017 4:09,3.75,2.47,1.68,"BC1,E3,TRK8,E2,RS142,FM1",10/29/2017 4:14
+2017-00010047,10/30/2017,38.034782,-78.486119,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,10/30/2017 11:53,1.75,1.52,5.37,E3,10/30/2017 12:00
+2017-00010052,10/30/2017,38.026446,-78.524679,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,10/30/2017 15:53,1.65,1.48,1.5,E10,10/30/2017 15:56
+2017-00010089,10/31/2017,38.024646,-78.45538,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,10/31/2017 16:46,1.33,0.83,5.28,"E2,TRK8,E3,BC6",10/31/2017 16:52
+2017-00010109,11/1/2017,38.00809,-78.509975,Road freight or transport vehicle fire,132 - Road freight or transport vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,11/1/2017 9:30,0.9,0.03,4.83,E3,11/1/2017 9:35
+2017-00010126,11/1/2017,38.052653,-78.572962,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,11/1/2017 21:13,0.6,1.98,7.85,E10,11/1/2017 21:23
+2017-00010188,11/3/2017,38.040654,-78.464847,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,11/3/2017 17:24,0.72,0.05,,"CHF3,RS140,FM2,E1,BC6,E3,E2,TRK8,E10,TO10,CHF1,FM3,FM4",
+2017-00010281,11/6/2017,38.022842,-78.475386,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,11/6/2017 3:15,0.95,2.45,,"RS145,TRK8,BC2,E1,E2,E10,TO10,E3,FM3,FM4,FM1,CHF1",
+2017-00010377,11/9/2017,38.030919,-78.46966,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,11/9/2017 0:21,3.33,2.33,,"E10,TO10,E3,E2,BC6,TRK8,E1",
+2017-00010421,11/10/2017,38.073026,-78.492246,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,11/10/2017 11:01,0.92,1.63,4.22,E1,11/10/2017 11:07
+2017-00010534,11/13/2017,38.05113,-78.518257,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,11/13/2017 11:22,2.47,2.08,,"SQ135,E10,E1,E2",
+2017-00010569,11/14/2017,38.031939,-78.467664,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,11/14/2017 12:21,1.2,1.4,4.05,"E1,BC6,TO10,TRK8",11/14/2017 12:26
+2017-00010616,11/15/2017,38.035362,-78.491992,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,11/15/2017 23:31,1.82,2.32,3.83,"E3,BC1,TRK8,E2",11/15/2017 23:37
+2017-00010622,11/16/2017,38.062635,-78.467034,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,11/16/2017 7:55,0.8,0.05,,"BC6,E10,TO10,TRK8,E1",
+2017-00010708,11/18/2017,38.068867,-78.496503,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,11/18/2017 9:29,1.23,0.63,5.02,E1,11/18/2017 9:34
+2017-00010758,11/19/2017,38.032334,-78.480773,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,11/19/2017 11:09,2.1,0.4,2.28,E2,11/19/2017 11:12
+2017-00010763,11/19/2017,38.026158,-78.514843,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,11/19/2017 14:24,2.42,0.08,0.6,"TO10,E10",11/19/2017 14:25
+2017-00010771,11/19/2017,38.012705,-78.54111,"Forest, woods or wildland fire","141 - Forest, woods or wildland fire",14 - Natural vegetation fire,1 - Fire,11/19/2017 17:31,1.83,1.27,4.73,E10,11/19/2017 17:37
+2017-00010849,11/21/2017,38.057741,-78.452931,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,11/21/2017 19:26,1.47,1.42,5.33,E1,11/21/2017 19:33
+2017-00010919,11/24/2017,38.019327,-78.484356,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,11/24/2017 12:41,1.1,2.08,,"TRK8,E2",
+2017-00011041,11/27/2017,38.030939,-78.504216,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,11/27/2017 21:51,0.78,1.9,,"E1,TO10,E3,E2,E10,BC2,TRK8,RS141",
+2017-00011054,11/28/2017,38.032466,-78.500682,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,11/28/2017 13:00,1.12,,,"UVA2,E3",
+2017-00011058,11/28/2017,38.014603,-78.523444,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,11/28/2017 17:46,1.17,1.37,8.03,E10,11/28/2017 17:56
+2017-00011060,11/28/2017,38.066754,-78.50647,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,11/28/2017 21:28,0.6,1.57,4.93,E1,11/28/2017 21:35
+2017-00011092,11/29/2017,38.014771,-78.52412,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,11/29/2017 19:53,0.78,2.38,9.2,E10,11/29/2017 20:04
+2017-00011166,12/2/2017,38.033775,-78.493789,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,12/2/2017 7:02,2.23,,,"BC6,E2,E3,TO10,FM2",12/2/2017 7:07
+2017-00011192,12/2/2017,38.025115,-78.490265,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,12/2/2017 20:41,0.68,1.65,3.52,E3,12/2/2017 20:46
+2017-00011249,12/4/2017,38.041936,-78.514034,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,12/4/2017 12:21,0.72,1.67,4.03,"E10,TO10,BC2,E3",12/4/2017 12:27
+2017-00011479,12/11/2017,38.079728,-78.468725,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,12/11/2017 20:13,0.97,1.57,5.82,E1,12/11/2017 20:21
+2017-00011518,12/13/2017,37.998161,-78.487496,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,12/13/2017 11:39,1.43,0.03,2.82,E2,12/13/2017 11:41
+2017-00011590,12/15/2017,38.035492,-78.499412,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,12/15/2017 3:39,2.05,,,"UVA2,E3",
+2017-00011728,12/19/2017,38.033752,-78.491578,Grass fire,143 - Grass fire,14 - Natural vegetation fire,1 - Fire,12/19/2017 15:59,0.85,1.25,2.52,"E3,FM2",12/19/2017 16:03
+2017-00011787,12/21/2017,38.033342,-78.501534,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,12/21/2017 16:21,1.48,,,"UVA2,E3",
+2017-00011854,12/23/2017,38.079831,-78.467579,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,12/23/2017 20:14,1.57,1.67,6.2,"E1,RS145",12/23/2017 20:22
+2017-00011918,12/26/2017,38.064908,-78.497908,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,12/26/2017 15:09,1.78,5.75,0.63,E1,12/26/2017 15:15
+2017-00011967,12/28/2017,38.038763,-78.458203,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,12/28/2017 18:22,2.33,1.92,4.32,"E1,BC1,TRK9,E5",12/28/2017 18:29
+2018-00000136,1/4/2018,38.015511,-78.497775,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,1/4/2018 11:46,3.18,0.15,4.28,",E4",1/4/2018 11:51
+2018-00000169,1/5/2018,38.053062,-78.464998,Grass fire,143 - Grass fire,14 - Natural vegetation fire,1 - Fire,1/5/2018 14:01,1.3,2.53,3.87,E1,1/5/2018 14:07
+2018-00000172,1/5/2018,38.031112,-78.477597,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/5/2018 14:33,1.23,0.97,2.78,"TRK9,E4,FM4",1/5/2018 14:37
+2018-00000184,1/5/2018,,,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,1/5/2018 19:42,0.93,2.2,6.82,E10,1/5/2018 19:52
+2018-00000215,1/6/2018,38.04353,-78.466951,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,1/6/2018 13:20,0.8,1.35,3.6,"E1,E4,TRK9,BC1",1/6/2018 13:24
+2018-00000425,1/11/2018,38.036338,-78.483469,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,1/11/2018 5:31,0.75,2.93,3.1,E4,1/11/2018 5:37
+2018-00000438,1/11/2018,38.024151,-78.495025,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/11/2018 16:09,1.57,0.05,,"E1,E10,,TO10,BC1,E4,RS140,TRK9",
+2018-00000459,1/12/2018,38.032289,-78.48537,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/12/2018 12:06,1.48,0.05,0.82,",E4,E1,TRK9,RS140,BC1,TO10,E10,FM2,CHF1",1/12/2018 12:06
+2018-00000516,1/14/2018,38.034066,-78.485466,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/14/2018 3:44,1.28,2.75,1.48,"E4,BC1,TRK9,E1",1/14/2018 3:49
+2018-00000695,1/19/2018,38.036785,-78.493459,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/19/2018 18:20,1.3,0.03,1.93,"RS140,DUTY1,E4,E1,TRK9,BC1,E10,TO10,CHF1,FM3,FM4",1/19/2018 18:22
+2018-00000704,1/19/2018,38.031215,-78.502712,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/19/2018 23:04,0.78,2.13,3.38,"E4,BC1,TO10,E10",1/19/2018 23:09
+2018-00000739,1/20/2018,38.041982,-78.49512,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/20/2018 19:11,1.1,0.05,,"DUTY1,RS141,RS146,,E10,TO10,CHF3,BC1,FM2",
+2018-00000788,1/22/2018,38.0081,-78.516434,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/22/2018 0:12,0.92,2.6,6.23,E10,1/22/2018 0:21
+2018-00000862,1/24/2018,38.029549,-78.504968,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,1/24/2018 10:55,2.1,,,"UVA2,TO10,E4",
+2018-00000884,1/25/2018,38.068648,-78.485925,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,1/25/2018 8:03,15.65,1.4,7.03,E1,1/25/2018 8:12
+2018-00000977,1/27/2018,38.03252,-78.516925,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,1/27/2018 11:41,1.6,1.55,2.85,"E10,E4",1/27/2018 11:45
+2018-00001066,1/29/2018,38.028667,-78.482506,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,1/29/2018 20:08,2.62,1.95,1.68,E4,1/29/2018 20:11
+2018-00001099,1/30/2018,38.039266,-78.494036,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,1/30/2018 18:32,1,0.17,2.55,"E4,BC1,TO10,E1,FM4,TRK9,E10,CHF1,FM3,E3,ISU1,",1/30/2018 18:35
+2018-00001153,2/1/2018,38.020534,-78.497788,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,2/1/2018 16:59,1,1.58,,"E1,E10,,TO10,TRK9,BC1,,E4",
+2018-00001273,2/5/2018,37.99873,-78.519968,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,2/5/2018 11:36,1.62,0.88,8.18,E4,2/5/2018 11:45
+2018-00001298,2/6/2018,38.064191,-78.487016,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,2/6/2018 11:11,1.52,0.27,3.57,"BC1,E10,E4,TRK9",2/6/2018 11:15
+2018-00001300,2/6/2018,38.037046,-78.491936,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,2/6/2018 12:34,2.37,,,"E10,TO10,E4,,BC1,RS140,FM1,FM2",
+2018-00001475,2/11/2018,38.029549,-78.504968,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,2/11/2018 21:56,3.38,2.8,3.12,"E10,TO10",2/11/2018 22:01
+2018-00001476,2/11/2018,38.08265,-78.467024,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,2/11/2018 22:03,1.58,1.35,7.95,E1,2/11/2018 22:13
+2018-00001479,2/12/2018,38.033931,-78.510931,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,2/12/2018 0:58,1.27,2.42,4.05,"E4,E10,TO10,E1,RS143,BC1,TRK9",2/12/2018 1:04
+2018-00001502,2/12/2018,38.019491,-78.456159,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,2/12/2018 20:41,1.85,1.6,6.2,"E4,E1,CHF1",2/12/2018 20:48
+2018-00001541,2/14/2018,38.027062,-78.483015,Outside stationary compactor/compacted trash fire,155 - Outside stationary compactor/compacted trash fire,15 - Outside rubbish fire,1 - Fire,2/14/2018 2:31,0.77,2.63,2.18,"E4,TRK9,BC1,E10,RS146",2/14/2018 2:36
+2018-00001599,2/15/2018,38.037217,-78.446334,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,2/15/2018 18:46,1.8,1.85,4.95,E1,2/15/2018 18:53
+2018-00001636,2/16/2018,38.032924,-78.522389,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,2/16/2018 20:49,0.73,1.93,4.02,"E10,E7",2/16/2018 20:55
+2018-00001638,2/16/2018,38.027834,-78.480151,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,2/16/2018 21:11,3.08,2.35,2.05,"TRK9,BC1,E1,FM3",2/16/2018 21:15
+2018-00001646,2/17/2018,38.023267,-78.485726,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,2/17/2018 5:59,1.88,2.57,2.02,E7,2/17/2018 6:03
+2018-00001727,2/18/2018,38.033086,-78.496763,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,2/18/2018 23:51,0.68,1.42,3.18,E4,2/18/2018 23:56
+2018-00001754,2/19/2018,38.031798,-78.505417,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,2/19/2018 22:25,1.47,1.55,3.52,E10,2/19/2018 22:30
+2018-00001834,2/22/2018,38.035711,-78.498635,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,2/22/2018 18:33,1.27,,,"TO10,BC1,E10,TRK9,E1",
+2018-00002106,3/3/2018,38.028808,-78.49009,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,3/3/2018 5:28,0.82,1.9,3.38,"E7,BC1,TRK9,,RS142",3/3/2018 5:33
+2018-00002195,3/5/2018,38.026446,-78.524679,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,3/5/2018 12:06,1.85,,,,3/5/2018 12:06
+2018-00002197,3/5/2018,38.067265,-78.485417,Grass fire,143 - Grass fire,14 - Natural vegetation fire,1 - Fire,3/5/2018 13:19,1.37,1.1,3,E1,3/5/2018 13:23
+2018-00002285,3/8/2018,38.021087,-78.464262,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/8/2018 15:26,0.92,3.57,,",RS140,E2,TRK9,BC1",
+2018-00002343,3/10/2018,38.035571,-78.458552,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,3/10/2018 18:24,1.98,,,"E2,E1",
+2018-00002368,3/11/2018,38.027968,-78.48603,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,3/11/2018 15:30,1.08,3.05,0.08,"E2,BC1,FM3",3/11/2018 15:33
+2018-00002372,3/11/2018,38.033752,-78.491578,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/11/2018 16:31,0.83,1.12,2.05,"E2,TRK9,BC1,E10,FM3",3/11/2018 16:34
+2018-00002375,3/11/2018,38.012717,-78.516599,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,3/11/2018 18:24,1.75,1.12,4.57,E4,3/11/2018 18:30
+2018-00002414,3/12/2018,38.061188,-78.500505,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/12/2018 19:46,1.87,1.37,5.23,"E1,TO10,BC1",3/12/2018 19:53
+2018-00002452,3/14/2018,38.036319,-78.458114,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,3/14/2018 7:41,1.82,0.3,3.28,E1,3/14/2018 7:44
+2018-00002508,3/16/2018,38.02976,-78.476521,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,3/16/2018 7:42,1.37,1.35,2.9,E7,3/16/2018 7:46
+2018-00002531,3/16/2018,38.045098,-78.499477,"Chimney or flue fire, confined to chimney or flue","114 - Chimney or flue fire, confined to chimney or flue",11 - Structure Fire,1 - Fire,3/16/2018 19:03,0.72,1.07,4.05,"E1,TRK9,BC1,E10",3/16/2018 19:08
+2018-00002533,3/16/2018,38.041326,-78.479484,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/16/2018 19:40,0.98,0.25,2.03,"E7,BC1,E10,TO10",3/16/2018 19:43
+2018-00002570,3/17/2018,38.040533,-78.501341,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,,1.92,,,",E7,BC1,TO10,TRK9,DUTY1,RS142,,E10,E1",
+2018-00002620,3/18/2018,38.025999,-78.454102,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,3/18/2018 18:08,0.57,1.03,4.82,",TRK9,E7,BC1,,E1",3/18/2018 18:14
+2018-00002624,3/18/2018,38.03249,-78.504039,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,3/18/2018 20:17,2.83,,,"UVA2,E10",
+2018-00002658,3/20/2018,38.021509,-78.487622,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,3/20/2018 3:54,,27,,"E7,TRK9,BC1",3/20/2018 3:59
+2018-00002719,3/21/2018,38.043707,-78.504945,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,3/21/2018 21:14,1.37,1.6,4.23,E10,3/21/2018 21:19
+2018-00002907,3/27/2018,38.023316,-78.467254,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,,0.83,,3.93,",E1",3/27/2018 15:31
+2018-00002988,3/30/2018,38.058245,-78.498652,"Outside rubbish, trash or waste fire","151 - Outside rubbish, trash or waste fire",15 - Outside rubbish fire,1 - Fire,3/30/2018 8:58,2.4,1.57,6.22,E1,3/30/2018 9:05
+2018-00003013,3/30/2018,38.041869,-78.500049,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,3/30/2018 22:11,1.38,1.83,3.4,E7,3/30/2018 22:17
+2018-00003022,3/31/2018,38.057912,-78.494794,"Natural vegetation fire, other","140 - Natural vegetation fire, other",14 - Natural vegetation fire,1 - Fire,3/31/2018 3:28,1.65,0.48,3.35,E1,3/31/2018 3:32
+2018-00003040,3/31/2018,38.056175,-78.495722,"Special outside fire, other","160 - Special outside fire, other",16 - Special outside fire,1 - Fire,3/31/2018 12:23,1.13,0.27,3.97,E1,3/31/2018 12:27
+2018-00003138,4/3/2018,38.027122,-78.471766,Dumpster or other outside trash receptacle fire,154 - Dumpster or other outside trash receptacle fire,15 - Outside rubbish fire,1 - Fire,4/3/2018 12:39,1.88,1.67,2.87,E7,4/3/2018 12:44
+2018-00003163,4/4/2018,38.032913,-78.509104,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/4/2018 16:41,1.42,,,"UVA2,TRK9,E10,E7,E1",
+2018-00003214,4/6/2018,38.033583,-78.485374,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/6/2018 15:10,0.82,1.1,1.2,",TO10",4/6/2018 15:12
+2018-00003259,4/8/2018,38.063747,-78.509831,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/8/2018 13:22,0.93,1.9,3.07,E1,4/8/2018 13:27
+2018-00003269,4/8/2018,38.034315,-78.476792,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/8/2018 20:09,1.83,1.12,3.13,"BC1,E7,TRK9,E1",4/8/2018 20:13
+2018-00003339,4/10/2018,38.029549,-78.504968,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,4/10/2018 21:29,0.53,2.72,2.97,"E10,TO10",4/10/2018 21:35
+2018-00003390,4/12/2018,38.06405,-78.488415,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/12/2018 15:10,1.18,1.47,,"BC1,TO10,E1",
+2018-00003394,4/12/2018,38.028205,-78.473919,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/12/2018 16:26,1.9,0.7,1.62,E7,4/12/2018 16:28
+2018-00003395,4/12/2018,38.014717,-78.539477,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/12/2018 16:58,0.88,0.9,4.28,E10,4/12/2018 17:03
+2018-00003398,4/12/2018,38.15513,-78.498447,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/12/2018 18:17,0.98,1.67,14.02,E1,4/12/2018 18:32
+2018-00003428,4/13/2018,38.055921,-78.496291,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,4/13/2018 13:54,1.57,1.42,5.42,E1,4/13/2018 14:01
+2018-00003429,4/13/2018,38.062039,-78.486731,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,4/13/2018 14:34,1.97,1.67,5.78,"BC1,TO10,E1",4/13/2018 14:41
+2018-00003432,4/13/2018,38.015703,-78.536682,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/13/2018 15:43,0.88,1.43,5.78,E10,4/13/2018 15:50
+2018-00003433,4/13/2018,38.034401,-78.447863,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/13/2018 16:31,1.08,1.62,7.12,"E7,E1",4/13/2018 16:40
+2018-00003436,4/13/2018,38.026076,-78.470699,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/13/2018 16:57,3.3,1.55,,"E1,FM4,E10,TRK9,BC1",
+2018-00003450,4/13/2018,38.023698,-78.491558,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/13/2018 21:34,1.93,2.13,2.37,E7,4/13/2018 21:39
+2018-00003480,4/14/2018,38.052745,-78.499226,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/14/2018 14:00,0.65,2,3.53,E1,4/14/2018 14:05
+2018-00003482,4/14/2018,,,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/14/2018 14:50,,,,"TRK9,E7,BC1,E10",
+2018-00003485,4/14/2018,,,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/14/2018 16:14,,,,"VOL,,E7,DUTY1,RS145,TRK9,E10,BC1,E1,,SQ135,TO10,RS146,CHF1,FM4,FM3,ISU1,E2",
+2018-00003654,4/19/2018,38.021771,-78.558998,Grass fire,143 - Grass fire,14 - Natural vegetation fire,1 - Fire,4/19/2018 13:44,0.65,1.55,3.87,E3,4/19/2018 13:49
+2018-00003758,4/22/2018,38.02304,-78.49835,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,4/22/2018 22:05,2.93,2.45,4.12,E7,4/22/2018 22:12
+2018-00003838,4/26/2018,38.020785,-78.536719,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,4/26/2018 13:16,2.27,2.02,4.92,E10,4/26/2018 13:23
+2018-00003898,4/27/2018,38.014899,-78.500714,"Outside rubbish fire, other","150 - Outside rubbish fire, other",15 - Outside rubbish fire,1 - Fire,4/27/2018 22:17,1.85,1.75,2.48,E5,4/27/2018 22:21
+2018-00003933,4/28/2018,,,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/28/2018 15:54,,,,"RS143,,E5,E1,E10,TRK9,TO10,,CHF1,FM3,BC1",
+2018-00003953,4/29/2018,38.026851,-78.480872,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/29/2018 5:35,0.3,2.33,1.43,"E5,BC1,DUTY1,TRK9,,RS143,TO10,E10,E1,,CHF1,FM3",4/29/2018 5:39
+2018-00003979,4/29/2018,38.035602,-78.448069,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,4/29/2018 18:14,1.58,1.62,9.45,E1,4/29/2018 18:25
+2018-00004025,4/30/2018,38.057384,-78.495331,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,4/30/2018 22:45,1.7,3.52,1.55,"E1,E5,BC6",4/30/2018 22:50
+2018-00004114,5/3/2018,38.062521,-78.50768,"Trash or rubbish fire, contained","118 - Trash or rubbish fire, contained",11 - Structure Fire,1 - Fire,5/3/2018 12:58,3.25,1.13,1.93,E1,5/3/2018 13:01
+2018-00004140,5/4/2018,38.067092,-78.47498,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,5/4/2018 12:09,2.15,2.1,,"BC6,TRK9,E1,,RS145",
+2018-00004175,5/5/2018,38.05667,-78.489139,Passenger vehicle fire,131 - Passenger vehicle fire,13 - Mobile property (vehicle) fire,1 - Fire,5/5/2018 10:21,0.82,1.53,1.9,E1,5/5/2018 10:24
+2018-00004176,5/5/2018,38.033689,-78.464878,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/5/2018 10:32,1.73,2.07,3.82,"E7,TO10,BC1,E10",5/5/2018 10:38
+2018-00004179,5/5/2018,38.045821,-78.480512,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/5/2018 12:43,1.43,3.98,,"RS145,VOL,E1,DUTY1,TO10,FM4,,TRK9,,BC1,E7",
+2018-00004186,5/5/2018,38.021361,-78.486791,Grass fire,143 - Grass fire,14 - Natural vegetation fire,1 - Fire,5/5/2018 14:18,7.45,,,"A01,E7",5/5/2018 14:18
+2018-00004232,5/6/2018,38.023111,-78.470484,"Fire, other","100 - Fire, other","10 - Fire, other",1 - Fire,5/6/2018 19:59,0.77,1.05,3.58,"BC1,TRK9,E7",5/6/2018 20:04
+2018-00004246,5/7/2018,38.033992,-78.499108,Building fire,111 - Building fire,11 - Structure Fire,1 - Fire,5/7/2018 8:07,1.45,,,"TO10,E7,E1,BC6,TRK9,E10,",
+2018-00004259,5/7/2018,38.031028,-78.498547,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,5/7/2018 16:37,1.2,1.33,3.45,E7,5/7/2018 16:41
+2018-00004262,5/7/2018,38.052424,-78.503456,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,5/7/2018 18:50,1.43,2.03,3.82,E1,5/7/2018 18:56
+2018-00004266,5/7/2018,38.027799,-78.465868,Outside equipment fire,162 - Outside equipment fire,16 - Special outside fire,1 - Fire,5/7/2018 21:59,0.98,1.78,4.78,"E7,FM2",5/7/2018 22:05
+2018-00004276,5/8/2018,38.023065,-78.518511,"Cooking fire, confined to container","113 - Cooking fire, confined to container",11 - Structure Fire,1 - Fire,5/8/2018 7:12,0.93,0.03,,"E1,E7,TO10,BC6",
+2018-00004295,5/8/2018,38.032851,-78.499882,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,5/8/2018 18:54,0.45,1.45,3.43,E7,5/8/2018 18:59
+2018-00004320,5/9/2018,38.031028,-78.498547,Brush or brush-and-grass mixture fire,142 - Brush or brush-and-grass mixture fire,14 - Natural vegetation fire,1 - Fire,5/9/2018 12:34,1.33,3.47,0.55,E7,5/9/2018 12:38
