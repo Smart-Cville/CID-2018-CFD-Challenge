@@ -33,3 +33,10 @@ challenge are listed below.
   Area](http://opendata.charlottesville.org/datasets/police-neighborhood-area)  
 * [Crime
   Data](http://opendata.charlottesville.org/datasets/crime-data)  
+
+## Method to ID Vacant Parcels
+
+A tip from Charlottesville Neighborhood Development Services on
+identifying vacant parcels in the city (which carries more fire risk
+than an inhabited structure) is to query all structures with an
+assessed value of $0 for improvements.
