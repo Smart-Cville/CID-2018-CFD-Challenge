@@ -10,6 +10,8 @@ _*
 # nothing in data directory execept README
 data/*
 !data/README.md
+!data/*.csv
+!data/*.geojson
 
 # ----------------------------
 # Jupyter
