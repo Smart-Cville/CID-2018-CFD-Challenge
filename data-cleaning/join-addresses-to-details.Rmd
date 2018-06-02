@@ -55,7 +55,18 @@ resjoined
 Take a look at the joined **commercial** data:
 
 ```{r, echo=FALSE}
-comjoined
+resjoined
+```
+
+Geocode the commercial data:
+
+```{r}
+library(ggmap)
+comjoined <- comjoined %>% 
+  mutate(address=paste(st_number, st_name, suffix, "Charlottesville VA", zip)) %>% 
+  select(objectid, address) %>% 
+  distinct() %>% 
+  mutate(latlon=list(geocode(address)))
 ```
 
 Write out cleaned data

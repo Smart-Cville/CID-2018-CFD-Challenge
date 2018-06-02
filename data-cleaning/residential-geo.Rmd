@@ -1,0 +1,40 @@
+---
+title: "Join addresses to details"
+output: 
+  html_document: 
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE)
+```
+
+# Load required packages
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(here)
+library(sf)
+```
+
+```{r}
+geo <- st_read(here("data", "GEOCODED_JOINED_RES_DATA.geojson"))
+st_coordinates(geo)
+geo <- geo %>% 
+  as_tibble() %>% 
+  select(objectid=objectid_1) %>% 
+  cbind(st_coordinates(geo)) %>% 
+  as_tibble() %>% 
+  select(objectid, lat=Y, lon=X)
+
+d <- read_csv(here("data", "addresses-joined-to-details-residential.csv"))
+
+djoin <- geo %>% 
+  inner_join(d, by="objectid")
+
+djoin %>% write_csv(here("data", "addresses-joined-to-details-residential-with-lat-lon.csv"))
+
+```
+
