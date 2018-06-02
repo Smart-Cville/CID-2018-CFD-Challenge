@@ -1,0 +1,52 @@
+---
+title: "Clean Occupancy Data"
+output: 
+  html_document: 
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE)
+```
+
+# Load required packages
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(here)
+```
+
+# Import and clean data
+
+```{r}
+# import data
+d <- read_csv(here::here("data", "City_Building_Occupancies.csv"))
+
+# a little cleaning
+d <- d %>% 
+  # better column names
+  janitor::clean_names() %>% 
+  # Remove empties
+  remove_empty(c("rows", "cols")) %>% 
+  # to date
+  mutate(date=as_date(date, format="%m/%d/%Y", tz="America/New_York")) %>% 
+  # Fix spaces between "2 nd", "9 th", etc.
+  mutate(address=str_replace(address, "^(\\d+) ", "\\1")) %>%
+  # E.g. "St.SE" to "St. SE"
+  mutate(address=str_replace(address, "([A-Za-z]+)\\.([A-Za-z0-9])", "\\1 \\2"))
+```
+
+Take a look:
+
+```{r, echo=FALSE}
+d
+```
+
+Write out cleaned data
+
+```{r}
+d %>% write_csv(here::here("data", "City_Building_Occupancies-cleaner.csv"))
+```
+
