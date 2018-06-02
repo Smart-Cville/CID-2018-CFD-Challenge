@@ -1,5 +1,5 @@
 ---
-title: "Join residential details to addresses"
+title: "Join addresses to details"
 output: 
   html_document: 
     df_print: paged
@@ -26,25 +26,42 @@ addresses <- read.csv(here::here("data", "Master_Address_Table.csv")) %>%
   as_tibble() %>% 
   mutate_if(is.factor, as.character)
 
-details <- read_csv(here::here("data", "Real_Estate_Residential_Details.csv"))
+resdetails <- read_csv(here::here("data", "Real_Estate_Residential_Details.csv"))
 
-joined <- addresses %>% 
-  inner_join(details, by=c("OBJECTID"="RecordID_Int")) %>% 
+comdetails <- read_csv(here::here("data", "Real_Estate_Commercial_Details.csv"))
+
+resjoined <- addresses %>% 
+  inner_join(resdetails, by=c("OBJECTID"="RecordID_Int")) %>% 
   clean_names() %>% 
   na_if(" ") %>% 
   na_if("") %>% 
   remove_empty(c("rows", "cols"))
+
+comjoined <- addresses %>% 
+  inner_join(comdetails, by=c("OBJECTID"="RecordID_Int")) %>% 
+  clean_names() %>% 
+  na_if(" ") %>% 
+  na_if("") %>% 
+  remove_empty(c("rows", "cols"))
+
 ```
 
-Take a look:
+Take a look at the joined **residential** data:
 
 ```{r, echo=FALSE}
-joined
+resjoined
+```
+
+Take a look at the joined **commercial** data:
+
+```{r, echo=FALSE}
+comjoined
 ```
 
 Write out cleaned data
 
 ```{r}
-joined %>% write_csv(here::here("data", "addresses-joined-to-details.csv"))
+resjoined %>% write_csv(here::here("data", "addresses-joined-to-details-residential.csv"))
+comjoined %>% write_csv(here::here("data", "addresses-joined-to-details-commercial.csv"))
 ```
 
