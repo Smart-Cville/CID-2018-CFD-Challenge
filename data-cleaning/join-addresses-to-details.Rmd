@@ -60,6 +60,17 @@ resjoined
 
 Geocode the commercial data:
 
+
+Write out cleaned data
+
+```{r}
+resjoined %>% write_csv(here::here("data", "addresses-joined-to-details-residential.csv"))
+comjoined %>% write_csv(here::here("data", "addresses-joined-to-details-commercial.csv"))
+```
+
+
+# Geocode
+
 ```{r}
 library(ggmap)
 comjoined <- comjoined %>% 
@@ -69,10 +80,17 @@ comjoined <- comjoined %>%
   mutate(latlon=list(geocode(address)))
 ```
 
-Write out cleaned data
-
 ```{r}
-resjoined %>% write_csv(here::here("data", "addresses-joined-to-details-residential.csv"))
-comjoined %>% write_csv(here::here("data", "addresses-joined-to-details-commercial.csv"))
+comjoined <- addresses %>% 
+  inner_join(comdetails, by=c("OBJECTID"="RecordID_Int")) %>% 
+  clean_names() %>% 
+  na_if(" ") %>% 
+  na_if("") %>% 
+  remove_empty(c("rows", "cols")) %>% 
+  bind_cols(comjoined$latlon[[1]] %>% as_tibble() %>% select(lat, lon)) %>% 
+  select(objectid, lat, lon, everything())
 ```
 
+```{r}
+comjoined %>% write_csv(here::here("data", "addresses-joined-to-details-commercial-with-lat-lon.csv"))
+```
