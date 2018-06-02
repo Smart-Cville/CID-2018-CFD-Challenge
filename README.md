@@ -46,3 +46,10 @@ interactive website or app that allows people to see the fire risk
 assigned to their home or place of employment and offers suggestions
 on what they can do to lower it. What would this look like? What else
 might be useful?
+
+# Follow up
+
+If you're interested in staying (or getting) involved with this
+challenge beyond 6/2, please [fill out this
+form](https://goo.gl/forms/Ephi9bkKio0BxHQc2) with your contact
+information, level of interest, and area of interest.
