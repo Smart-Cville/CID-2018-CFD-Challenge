@@ -134,14 +134,11 @@ library(here)</code></pre>
 <div id="import-and-clean-data" class="section level1">
 <h1>Import and clean data</h1>
 <pre class="r"><code># import data
-addresses &lt;- read.csv(here::here(&quot;data&quot;, 
-                                 &quot;opendata.charlottesville.org&quot;, 
-                                 &quot;Master_Address_Table.csv&quot;), 
-                      stringsAsFactors=FALSE) %&gt;% as_tibble()
+addresses &lt;- read.csv(here::here(&quot;data&quot;, &quot;Master_Address_Table.csv&quot;)) %&gt;% 
+  as_tibble() %&gt;% 
+  mutate_if(is.factor, as.character)
 
-details &lt;- read_csv(here::here(&quot;data&quot;, 
-                               &quot;opendata.charlottesville.org&quot;, 
-                               &quot;Real_Estate_Residential_Details.csv&quot;))
+details &lt;- read_csv(here::here(&quot;data&quot;, &quot;Real_Estate_Residential_Details.csv&quot;))
 
 joined &lt;- addresses %&gt;% 
   inner_join(details, by=c(&quot;OBJECTID&quot;=&quot;RecordID_Int&quot;)) %&gt;% 
@@ -156,7 +153,7 @@ joined &lt;- addresses %&gt;%
   </script>
 </div>
 <p>Write out cleaned data</p>
-<pre class="r"><code>joined %&gt;% write_csv(here::here(&quot;data&quot;, &quot;opendata.charlottesville.org&quot;, &quot;addresses-joined-to-details.csv&quot;))</code></pre>
+<pre class="r"><code>joined %&gt;% write_csv(here::here(&quot;data&quot;, &quot;addresses-joined-to-details.csv&quot;))</code></pre>
 </div>
 
 

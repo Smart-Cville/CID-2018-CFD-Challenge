@@ -22,14 +22,11 @@ library(here)
 
 ```{r}
 # import data
-addresses <- read.csv(here::here("data", 
-                                 "opendata.charlottesville.org", 
-                                 "Master_Address_Table.csv"), 
-                      stringsAsFactors=FALSE) %>% as_tibble()
+addresses <- read.csv(here::here("data", "Master_Address_Table.csv")) %>% 
+  as_tibble() %>% 
+  mutate_if(is.factor, as.character)
 
-details <- read_csv(here::here("data", 
-                               "opendata.charlottesville.org", 
-                               "Real_Estate_Residential_Details.csv"))
+details <- read_csv(here::here("data", "Real_Estate_Residential_Details.csv"))
 
 joined <- addresses %>% 
   inner_join(details, by=c("OBJECTID"="RecordID_Int")) %>% 
@@ -48,6 +45,6 @@ joined
 Write out cleaned data
 
 ```{r}
-joined %>% write_csv(here::here("data", "opendata.charlottesville.org", "addresses-joined-to-details.csv"))
+joined %>% write_csv(here::here("data", "addresses-joined-to-details.csv"))
 ```
 
