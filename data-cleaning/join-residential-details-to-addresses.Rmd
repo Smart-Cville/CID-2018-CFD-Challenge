@@ -1,0 +1,53 @@
+---
+title: "Join residential details to addresses"
+output: 
+  html_document: 
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE)
+```
+
+# Load required packages
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(here)
+```
+
+# Import and clean data
+
+```{r}
+# import data
+addresses <- read.csv(here::here("data", 
+                                 "opendata.charlottesville.org", 
+                                 "Master_Address_Table.csv"), 
+                      stringsAsFactors=FALSE) %>% as_tibble()
+
+details <- read_csv(here::here("data", 
+                               "opendata.charlottesville.org", 
+                               "Real_Estate_Residential_Details.csv"))
+
+joined <- addresses %>% 
+  inner_join(details, by=c("OBJECTID"="RecordID_Int")) %>% 
+  clean_names() %>% 
+  na_if(" ") %>% 
+  na_if("") %>% 
+  remove_empty(c("rows", "cols"))
+```
+
+Take a look:
+
+```{r, echo=FALSE}
+joined
+```
+
+Write out cleaned data
+
+```{r}
+joined %>% write_csv(here::here("data", "opendata.charlottesville.org", "addresses-joined-to-details.csv"))
+```
+
