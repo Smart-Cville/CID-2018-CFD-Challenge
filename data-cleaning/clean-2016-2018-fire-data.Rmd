@@ -1,0 +1,69 @@
+---
+title: "Clean 2016-2018 Fire Data"
+output: 
+  html_document: 
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE)
+```
+
+# Load required packages
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+library(here)
+```
+
+# Import and clean data
+
+```{r}
+# import data
+d <- read_csv(here::here("data", "12_16to5_18FireResponses.csv"))
+
+# a little cleaning
+d <- d %>% 
+  # better column names
+  janitor::clean_names() %>% 
+  # to date
+  mutate(basic_incident_date_original_fd1_3=as_date(basic_incident_date_original_fd1_3, format="%m/%d/%Y", tz="EST")) %>% 
+  # to datetime
+  mutate_at(vars(apparatus_resource_dispatch_date_time_fd18_3,
+                 apparatus_resource_arrival_date_time_fd18_4), 
+            funs(as.POSIXct(., format="%m/%d/%Y %H:%M", tz="America/New_York")))
+```
+
+Take a look:
+
+```{r, echo=FALSE}
+d
+```
+
+Write out cleaned data
+
+```{r}
+d %>% write_csv(here::here("data", "12_16to5_18FireResponses-cleaner.csv"))
+```
+
+
+# Quick summary stats
+
+```{r}
+d %>% count(basic_incident_type_code_and_description_fd1_21, sort=TRUE)
+```
+
+```{r}
+d %>% 
+  count(basic_incident_type_code_and_description_fd1_21, sort=TRUE) %>% 
+  ggplot(aes(reorder(basic_incident_type_code_and_description_fd1_21, n), n)) + 
+    geom_col() + 
+    coord_flip()
+```
+
+```{r}
+d %>% count(basic_incident_type_subcategory_fd1_21, sort=TRUE)
+```
+
