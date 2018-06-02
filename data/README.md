@@ -24,7 +24,9 @@ challenge are listed below.
   Details](http://opendata.charlottesville.org/datasets/real-estate-residential-details)  
 * [Real Estate Commerical
   Details](http://opendata.charlottesville.org/datasets/real-estate-commercial-details)  
-  
+* [Memo with information about zoning in
+  Charlottesville](http://www.charlottesville.org/home/showdocument?id=16311)  
+
 ### Public Safety
 
 * [CFD Station
