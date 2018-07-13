@@ -7,18 +7,12 @@
 # nothing with leading underscore
 _*
 
-# nothing in data directory execept README
-data/*
-!data/README.md
-!data/*.csv
-!data/*.geojson
-
 # ----------------------------
 # Jupyter
 # ----------------------------
 
 # no checkpoints
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
 # ----------------------------
 # R
