@@ -10,7 +10,7 @@ enum34==1.1.6
 Flask==2.3.2
 Flask-Compress==1.4.0
 functools32==3.2.3.post2
-gunicorn==22.0.0
+gunicorn==23.0.0
 idna==3.7
 ipython-genutils==0.2.0
 itsdangerous==0.24
